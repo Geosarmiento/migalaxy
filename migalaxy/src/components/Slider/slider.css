@@ -1,0 +1,55 @@
+.container_banner{
+    width: 100%;
+    height: 532px;
+    background-color: black;
+    
+    background-image: url("../../assets/img/b1.png");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.imgg{
+    width: 1024px;
+    margin: auto;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+ 
+
+
+.titulo h1{
+    font-family: "LEMON MILK";
+    font-weight: 800;
+    font-size: 55px;
+    
+}
+.seccion{
+    margin-top: 80px;
+    width: 100%;
+    text-align: center;
+}
+h2{
+    margin: auto;
+    color: #F5B500;
+    font-family: "LEMON MILK";
+    font-weight: 800;
+}
+h4{
+    margin: auto;
+    width: 600px;
+}
+.subtitulo{
+    color: #ffffff;
+}
+.subtitulo2{
+    color: #F5B500;
+}
+.subtitulo3{
+    color: #ffffff;
+    background-color: #F5B500;
+
+}
