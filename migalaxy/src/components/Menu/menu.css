@@ -15,7 +15,7 @@
     align-items: center;   
 }
 .logo .logo_text img{
-    width: 100px;
+    width: 130px;
 }
 
 .logo .logo_text p{
@@ -23,7 +23,7 @@
 }
 
 .menu{
-    width: 100;
+    width: 100%;
     height: auto;
     background-color:#F5B500;
 
@@ -54,4 +54,48 @@
 
 .menu a:hover{
     color: rgb(19, 18, 17);
+}
+
+.bandera{
+    display: flex;;
+    
+}
+.bander{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     width:15px;
+    height: 15px;
+    flex-direction: column;
+    margin-top: 16px;
+    margin-left: 3px;
+    
+}
+
+.bander .amarillo{
+    width: 12px;
+    height: 2px;
+    padding: 2px;
+    background-color: rgb(228, 231, 7);
+    display: block;
+    
+    
+}
+
+
+.bander .azul{
+    width: 12px;
+    height: 2px;
+    background-color: rgb(16, 31, 241);
+    display: block;
+    padding: 2px;
+}
+
+
+.bander .rojo{
+    width: 12px;
+    height: 2px;
+    background-color: rgb(226, 10, 3);
+    padding: 2px;
+    display: block;
 }

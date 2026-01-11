@@ -11,10 +11,21 @@
       <div className='logo'>
             <div className='logo_text'>
                 <img  src={logo}  alt='logo'/>
+
+            <div className="bandera">
+
                 <p>+57 301 919 63 31</p>
-             </div>     
+                
+                    <div className="bander">
+                          <span className="amarillo"></span>
+                          <span className="azul"></span>
+                          <span className="rojo"></span>
+
+                    </div>
+                 
+           </div>     
       </div>
-      
+  </div>
     <div className="menu">
 
         <nav className="menu_nav">
