@@ -43,7 +43,7 @@ export const Footer = () => {
 
 
 <div className="reservados">
-Reservados todos los derechos</div>
+Reservados todos los Derechos</div>
       
     
     
