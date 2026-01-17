@@ -65,7 +65,7 @@ export const Contacto = () => {
     <div className='formulario'>
 
       <h2>Formulario de Contacto </h2>
-      <h4>Dejanos tus comentarios y <br />pronto estaremos en contacto</h4>
+      <h4>Dejanos tus comentarios y pronto <br /> estaremos en contacto</h4>
 
 
       
